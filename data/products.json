@@ -1,0 +1,27 @@
+{
+  "siteTitle": "My Store",
+  "contactLinks": [
+    {
+      "name": "Telegram",
+      "url": "https://t.me/yourchannel"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com/yourprofile"
+    }
+  ],
+  "products": [
+    {
+      "name": "Sample Product",
+      "image": "https://via.placeholder.com/150",
+      "price": 10.99,
+      "description": "This is a sample product."
+    },
+    {
+      "name": "Fat",
+      "image": "https://placehold.co/600x400",
+      "price": 100,
+      "description": "dfdffffdf"
+    }
+  ]
+}
